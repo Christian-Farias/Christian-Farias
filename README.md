@@ -1,4 +1,4 @@
-### Olá! Meu nome é Christian Farias, Analista de Dados / Cientista de Dados 🤚
+### Olá! Meu nome é Christian Farias, Analista de Dados Júnior.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_christianfarias/?next=%2F)
 [![LinkeDIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-farias-de-oliveira-4a0155265/)
