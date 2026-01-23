@@ -72,7 +72,7 @@ Atualmente, estou aprofundando meus conhecimentos em *Análise de Dados*, com fo
 </ul>
 <hr/>
 <h3>📊 Estatísticas do GitHub</h3>
-<p align="center">
+<p>
   <img width="440px" src="https://awesome-github-stats.azurewebsites.net/user-stats/Christian-Farias?cardType=github&theme=dark"/>
   <img width="424px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Farias&layout=compact&langs_count=8&theme=dark"/>
 </p>
