@@ -24,9 +24,9 @@
 </p>
 
 ## 🔎 **Sobre mim**
-Analista de Dados com experiência em organização, tratamento e análise de dados para apoio à tomada de decisão. Possuo domínio em `Excel`, `Power Apps`,`Power Automate`,`R`, e
+Analista de Dados com experiência em organização, tratamento e análise de dados para apoio à tomada de decisão. Possuo domínio em `Excel`,`R`, e
 bancos de dados relacionais como `SQL Server`e `MySQL`.<p>
-Atualmente, estou aprofundando meus conhecimentos em *Análise de Dados*, com foco em `Power BI`, e `SQL`, aplicando esses conceitos em projetos próprios, desde a extração e modelagem dos dados até a construção de dashboards interativos e indicadores gerenciais.
+Atualmente, estou aprofundando meus conhecimentos em *Análise de Dados*, com foco em `Power BI`, `Python` e `SQL`, aplicando esses conceitos em projetos próprios, desde a extração e modelagem dos dados até a construção de dashboards interativos e indicadores gerenciais.
 
 - 📊 **Análise, tratamento e visualização de dados** para geração de insights;
 - 📈 **Construção de dashboards e relatórios** no Power BI;
@@ -38,13 +38,12 @@ Atualmente, estou aprofundando meus conhecimentos em *Análise de Dados*, com fo
 <hr/>
 <h3>🛠️ Linguagens & Ferramentas</h3>
 <p>
-  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
-  <img alt="Power Automate" src="https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=power-automate&logoColor=white" />
-  <img alt="Power Apps" src="https://img.shields.io/badge/-Power%20Apps-742774?style=flat-square&logo=power-apps&logoColor=white" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.icons8.com/color/48/python.png"/>
+  <img src="https://img.icons8.com/color/48/r-project.png"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
 </p>
 <hr/>
 <h3>📝 Posts recentes</h3>
@@ -70,11 +69,6 @@ Atualmente, estou aprofundando meus conhecimentos em *Análise de Dados*, com fo
     </p>
   </li>
 </ul>
-<hr/>
-<h3>📊 Estatísticas do GitHub</h3>
-<p>
-  <img width="440px" src="https://awesome-github-stats.azurewebsites.net/user-stats/Christian-Farias?cardType=github&theme=dark"/>
-</p>
 <hr/>
 <p align="center">
   <b>Christian Farias de Oliveira</b><br/>
