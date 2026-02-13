@@ -76,6 +76,7 @@ Atualmente, estou aprofundando meus conhecimentos em *Análise de Dados*, com fo
 </p>
 
 
+
 Acesse meu portfólio em: 
 <a href="https://gitfollio.vercel.app/Christian-Farias"> 🔗
   https://gitfollio.vercel.app/Christian-Farias
@@ -112,14 +113,12 @@ Tenho expertise com análises exploratórias, visualização de dados, automaç�
     "repoName": "Limpador_de_Planilhas_com_Python_e_Streamlit",
     "url": "https://github.com/Christian-Farias/Limpador_de_Planilhas_com_Python_e_Streamlit",
     "stars": 1,
-    "description": "Limpador de Planilhas, com poucos cliques, é possível transformar um arquivo CSV ou Excel bruto em uma base padronizada, limpa e pronta para análise.",
-    "image": "https://github.com/Christian-Farias/Limpador_de_Planilhas_com_Python_e_Streamlit/blob/main/preview.png?raw=true",
+    "description": "Limpador de Planilhas, com poucos cliques, é possível transformar um arquivo CSV bruto em uma base padronizada, limpa e pronta para análise.",
+    "image": "https://github.com/Christian-Farias/Limpador_de_Planilhas_com_Python_e_Streamlit/raw/main/preview.png",
     "techs": [
       "Python",
       "Streamlit",
-      "Pandas",
-      "Regex(re)",
-      "Unidecode"
+      "Pandas"
     ],
     "deploy": "",
     "highlighted": false
