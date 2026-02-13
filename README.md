@@ -3,7 +3,7 @@
   Olá, bem-vindo(a)! Meu nome é Christian Farias
 </h2>
 <p align="center">
-  <b>Analista de Dados Júnior | Economista | R | Python | SQL | Power BI | Excel | ETL
+  <b>Analista de Dados | BI & Analytics | Power BI | SQL | Python | R | Excel | ETL | Economista
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/christian-farias-de-oliveira-4a0155265/">
