@@ -26,12 +26,12 @@
 ## 🔎 **Sobre mim**
 Analista de Dados com experiência em organização, tratamento e análise de dados para apoio à tomada de decisão. Possuo domínio em `Excel`,`R`, e
 bancos de dados relacionais como `SQL Server`e `MySQL`.<p>
-Atualmente, estou aprofundando meus conhecimentos em *Análise de Dados*, com foco em `Power BI`, `Python` e `SQL`, aplicando esses conceitos em projetos próprios, desde a extração e modelagem dos dados até a construção de dashboards interativos e indicadores gerenciais.
+Atualmente, estou aprofundando meus conhecimentos em *Análise de Dados*, com foco em `Power BI`, `Python`, `SQL` e `PowerApps`, aplicando esses conceitos em projetos próprios, desde a extração e modelagem dos dados até a construção de dashboards interativos e indicadores gerenciais.
 
 - 📊 **Análise, tratamento e visualização de dados** para geração de insights;
 - 📈 **Construção de dashboards e relatórios** no Power BI;
 - 🧮 **Manipulação e consulta de dados** com SQL e R;
-- ⚙️ **Automação de processos e fluxos** com Power Automate e Power Apps;
+- ⚙️ **Automação de processos** com Python;
 - 📂 **Organização e análise de dados** no Excel para **suporte estratégico**;
 - 🎯 **Aprimoramento contínuo** em BI, métricas de negócio e análise orientada a dados.
 
