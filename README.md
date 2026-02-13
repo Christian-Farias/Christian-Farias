@@ -74,3 +74,57 @@ Atualmente, estou aprofundando meus conhecimentos em *Análise de Dados*, com fo
   <b>Christian Farias de Oliveira</b><br/>
   Bacharel em Ciências Ecoômicas - UFC Campus Sobral
 </p>
+
+
+Acesse meu portfólio em: 
+<a href="https://gitfollio.vercel.app/Christian-Farias"> 🔗
+  https://gitfollio.vercel.app/Christian-Farias
+</a>
+
+<!-- GitFolio:start
+{
+  "gitfolio": "on",
+  "name": "Christian Farias",
+  "email": "christianfariasdc@gmail.com",
+  "tagline": "Analista de Dados | BI & Analytics | Power BI | SQL | Python | R | Excel | ETL | Economista",
+  "avatar_url": "https://avatars.githubusercontent.com/u/105950427?v=4",
+  "website": "",
+  "githubUser": "Christian-Farias",
+  "linkedinUser": "www.linkedin.com/in/christian-farias-oliveira",
+  "about": "Analista de Dados com formação em Ciências Econômicas e background técnico em Informática, atuando na transformação de dados em decisões estratégicas por meio de Business Intelligence. 
+
+Tenho expertise com análises exploratórias, visualização de dados, automação e mapeamento de processos, extração, transformação e carga de dados (ETL | ELT), inferência causal com modelos de regressão linear e classificação, desenvolvimento de relatórios, painéis e KPIs.",
+  "showStars": true,
+  "showFollowers": true,
+  "followers": 3,
+  "following": 4,
+  "themeId": "minimal",
+  "tech": [
+  "Python",
+  "R",
+  "SQL",
+  "Excel",
+  "PowerBI"
+],
+  "projects": [
+  {
+    "id": 1155714981,
+    "repoName": "Limpador_de_Planilhas_com_Python_e_Streamlit",
+    "url": "https://github.com/Christian-Farias/Limpador_de_Planilhas_com_Python_e_Streamlit",
+    "stars": 1,
+    "description": "Limpador de Planilhas, com poucos cliques, é possível transformar um arquivo CSV ou Excel bruto em uma base padronizada, limpa e pronta para análise.",
+    "image": "https://github.com/Christian-Farias/Limpador_de_Planilhas_com_Python_e_Streamlit/blob/main/preview.png?raw=true",
+    "techs": [
+      "Python",
+      "Streamlit",
+      "Pandas",
+      "Regex(re)",
+      "Unidecode"
+    ],
+    "deploy": "",
+    "highlighted": false
+  }
+]
+}
+GitFolio:end -->
+  
