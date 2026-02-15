@@ -74,3 +74,70 @@ Atualmente, estou aprofundando meus conhecimentos em *Análise de Dados*, com fo
   <b>Christian Farias de Oliveira</b><br/>
   Bacharel em Ciências Ecoômicas - UFC Campus Sobral
 </p>
+
+
+Acesse meu portfólio: 
+<a href="https://gitfollio.vercel.app/Christian-Farias"> 🔗
+  https://gitfollio.vercel.app/Christian-Farias
+</a>
+
+<!-- GitFolio:start
+{
+  "gitfolio": "on",
+  "name": "Christian Farias",
+  "email": "christianfariasdc@gmail.com",
+  "tagline": "Analista de Dados | BI & Analytics | Power BI • SQL • Python • R • Excel | ETL | Economista",
+  "avatar_url": "https://avatars.githubusercontent.com/u/105950427?v=4",
+  "website": "",
+  "githubUser": "Christian-Farias",
+  "linkedinUser": "www.linkedin.com/in/christian-farias-oliveira",
+  "about": "Analista de Dados formado em Ciências Econômicas, com background técnico em Informática. Atua na transformação de dados em decisões estratégicas por meio de Business Intelligence, modelagem estatística e automação de processos. Experiência em análises exploratórias, ETL/ELT, regressão linear, classificação, desenvolvimento de dashboards, relatórios e KPIs, além de mapeamento e otimização de processos orientados a dados.",
+  "showStars": true,
+  "showFollowers": false,
+  "followers": 3,
+  "following": 4,
+  "themeId": "professional",
+  "tech": [
+  "Python",
+  "R",
+  "SQL",
+  "PowerBI",
+  "Excel"
+],
+  "projects": [
+  {
+    "id": 1155714981,
+    "repoName": "Limpador_de_Planilhas_com_Python_e_Streamlit",
+    "url": "https://github.com/Christian-Farias/Limpador_de_Planilhas_com_Python_e_Streamlit",
+    "stars": 1,
+    "description": "Limpador de Planilhas onde com poucos cliques, é possível transformar um arquivo CSV bruto em uma base padronizada, limpa e pronta para análise",
+    "image": "https://github.com/Christian-Farias/Limpador_de_Planilhas_com_Python_e_Streamlit/raw/main/preview.png",
+    "techs": [
+      "Python",
+      "Pandas",
+      "Streamlit",
+      "Unidecode",
+      "Regex (re)"
+    ],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 1158145247,
+    "repoName": "Relatorio_automatizado_de_distribuicao_geografica_de_clientes",
+    "url": "https://github.com/Christian-Farias/Relatorio_automatizado_de_distribuicao_geografica_de_clientes",
+    "stars": 0,
+    "description": "Sistema automatizado em Python para geração e envio de relatório executivo com métricas geográficas de clientes via e-mail.",
+    "image": "https://github.com/Christian-Farias/Relatorio_automatizado_de_distribuicao_geografica_de_clientes/raw/main/preview_email.png",
+    "techs": [
+      "Python",
+      "Matplotlib",
+      "Pandas"
+    ],
+    "deploy": "",
+    "highlighted": false
+  }
+]
+}
+GitFolio:end -->
+  
